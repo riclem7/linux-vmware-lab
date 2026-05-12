@@ -40,4 +40,4 @@ virtualization skills relevant to DoD IT environments.
 - SSH configuration
 
 ## Screenshots
-See screenshots folder for lab evidence.
+See screenshots above for evidence.
