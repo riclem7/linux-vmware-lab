@@ -13,10 +13,21 @@ virtualization skills relevant to DoD IT environments.
 ## What I Did
 - Deployed two Ubuntu Server VMs in VMware from scratch
 - Verified OS identity, network configuration, and system resources (Screenshot 1)
+<img width="1170" height="915" alt="1" src="https://github.com/user-attachments/assets/f7157a67-6463-4f7f-8c60-33218d3ba7cd" />
+
 - Created users and managed sudo privileges (Screenshot 2)
+<img width="649" height="101" alt="2" src="https://github.com/user-attachments/assets/2e4cdf90-67a3-4713-b2bb-97f0dcd9cd40" />
+
 - Created directories, files, and applied file permissions with chmod (Screenshot 3)
+
+<img width="485" height="263" alt="3" src="https://github.com/user-attachments/assets/3b75a6a8-6e64-482b-b8ca-5a7d04fe8b4e" />
+
 - Confirmed internet connectivity, routing table, hosts file, and open ports (Screenshot 4)
+<img width="1207" height="597" alt="4" src="https://github.com/user-attachments/assets/115019e3-d12b-4ac9-ab24-14398b01b5d4" />
+
 - Validated VM-to-VM communication via ping with 0% packet loss (Screenshot 5)
+<img width="590" height="203" alt="5" src="https://github.com/user-attachments/assets/216d4943-d72c-42f2-a973-ca0682dfe835" />
+
 - Installed and configured OpenSSH for remote access
 - Patched both servers using apt package manager
 
