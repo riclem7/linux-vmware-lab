@@ -28,7 +28,7 @@ virtualization skills relevant to DoD IT environments.
 - Validated VM-to-VM communication via ping with 0% packet loss (Screenshot 5)
 <img width="590" height="203" alt="5" src="https://github.com/user-attachments/assets/216d4943-d72c-42f2-a973-ca0682dfe835" />
 
-- Installed Docker and ran first container
+- Installed Docker and ran first container (Screenshot 6)
 <img width="691" height="500" alt="6" src="https://github.com/user-attachments/assets/2a8691c7-c4bf-4a67-8aac-3f2253f000b7" />
 
 - Deployed nginx web server in a Docker container, confirmed serving pages via curl (Screenshot 7)
@@ -45,6 +45,7 @@ virtualization skills relevant to DoD IT environments.
 - Server patching and maintenance
 - VMware virtualization
 - SSH configuration
+- Docker containerization
 
 ## Screenshots
 See screenshots above for evidence.
